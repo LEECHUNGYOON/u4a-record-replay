@@ -1,0 +1,8 @@
+{
+    "name": "u4a-record-replay",
+    "main": "main.js",
+    "files": [
+        "main.js",
+        "lib/"
+    ]
+}
