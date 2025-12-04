@@ -4,5 +4,8 @@
     "files": [
         "main.js",
         "lib/"
-    ]
+    ],
+    "dependencies": {
+        "puppeteer": "^24.31.0"
+    }
 }
